@@ -39,4 +39,5 @@ To add it:
 
 ## Support
 
-For issues or questions, please open an issue on the [source repository](https://github.com/jjnicolas/OceanTides).
+If you encounter a problem or have feedback, please open an issue in this
+[releases repository](https://github.com/jjnicolas/OceanTides-releases/issues).
