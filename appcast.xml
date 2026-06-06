@@ -13,13 +13,6 @@
                 <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides53-45.delta" sparkle:deltaFrom="45" length="857378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H2qy/8bm8NrZX9vfGinA/95qb18e34Aq9bkMHxyrSKc92tUipcMsjpB54Z/bs7M+otFHefZDHoBetFIfO0mQCA=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>v1.9.0</title>
-            <pubDate>Fri, 05 Jun 2026 17:44:47 -0700</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>v1.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.9.0.zip" length="5062932" type="application/octet-stream" sparkle:edSignature="qqkjwiDL4uRfavdYUzF5lbX7SJ7/j8HNTM5LedG4/noTlOKohnD+f3aTmT2lFIMJPazhjU7UC6CIIdZLTxQPDg=="/>
-        </item>
+        
     </channel>
 </rss>
