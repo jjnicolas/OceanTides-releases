@@ -3,6 +3,17 @@
     <channel>
         <title>OceanTides</title>
         <item>
+            <title>1.9.0-6-g23a102a-dirty</title>
+            <pubDate>Sat, 06 Jun 2026 13:47:18 -0700</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.9.0-6-g23a102a-dirty</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.10.0.zip" length="5157593" type="application/octet-stream" sparkle:edSignature="BrJ/Uvly5nRNyqSvi6WgdvU8lk1SAGzAH+ulZpeHLO1VsRsgzLlZHtWdNaxuwgAWWu+OdFgj0oFcwLDRmPxSCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides51-45.delta" sparkle:deltaFrom="45" length="858362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rCkK41yBi4AwYy2QFikgMkaXkxfwaLNSFV4hB2Y8tQrYPG7XoX/+7r6vUMwF8106zCfIAoWgUl4P7kYJEoIXBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>v1.9.0</title>
             <pubDate>Fri, 05 Jun 2026 17:44:47 -0700</pubDate>
             <sparkle:version>45</sparkle:version>
