@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>OceanTides</title>
         <item>
             <title>1.10.0</title>
             <pubDate>Sat, 06 Jun 2026 13:57:27 -0700</pubDate>
-            <ns0:version>53</ns0:version>
-            <ns0:shortVersionString>1.10.0</ns0:shortVersionString>
-            <ns0:minimumSystemVersion>15.0</ns0:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.10.0.zip" length="5157545" type="application/octet-stream" ns0:edSignature="LgQbkrX5/CNtbClTTcRit5KxZMWCrcOF827gHI3WeoaMHrWusdmiTlxCdd3eO7E8VDAboJqHVhW3JI5TYUrDDg==" />
-            <ns0:deltas>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides53-45.delta" ns0:deltaFrom="45" length="857378" type="application/octet-stream" ns0:deltaFromSparkleExecutableSize="977840" ns0:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" ns0:edSignature="H2qy/8bm8NrZX9vfGinA/95qb18e34Aq9bkMHxyrSKc92tUipcMsjpB54Z/bs7M+otFHefZDHoBetFIfO0mQCA==" />
-            </ns0:deltas>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.10.0.zip" length="5157545" type="application/octet-stream" sparkle:edSignature="LgQbkrX5/CNtbClTTcRit5KxZMWCrcOF827gHI3WeoaMHrWusdmiTlxCdd3eO7E8VDAboJqHVhW3JI5TYUrDDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides53-45.delta" sparkle:deltaFrom="45" length="857378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H2qy/8bm8NrZX9vfGinA/95qb18e34Aq9bkMHxyrSKc92tUipcMsjpB54Z/bs7M+otFHefZDHoBetFIfO0mQCA=="/>
+            </sparkle:deltas>
         </item>
         <item>
             <title>v1.9.0</title>
             <pubDate>Fri, 05 Jun 2026 17:44:47 -0700</pubDate>
-            <ns0:version>45</ns0:version>
-            <ns0:shortVersionString>v1.9.0</ns0:shortVersionString>
-            <ns0:minimumSystemVersion>15.0</ns0:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.9.0.zip" length="5062932" type="application/octet-stream" ns0:edSignature="qqkjwiDL4uRfavdYUzF5lbX7SJ7/j8HNTM5LedG4/noTlOKohnD+f3aTmT2lFIMJPazhjU7UC6CIIdZLTxQPDg==" />
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>v1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.9.0.zip" length="5062932" type="application/octet-stream" sparkle:edSignature="qqkjwiDL4uRfavdYUzF5lbX7SJ7/j8HNTM5LedG4/noTlOKohnD+f3aTmT2lFIMJPazhjU7UC6CIIdZLTxQPDg=="/>
         </item>
     </channel>
 </rss>
