@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>OceanTides</title>
+        <item>
+            <title>v1.8.1-11-g88092a3-dirty</title>
+            <pubDate>Fri, 05 Jun 2026 17:24:27 -0700</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>v1.8.1-11-g88092a3-dirty</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.9.0.zip" length="5062951" type="application/octet-stream" sparkle:edSignature="eXKO0ft12XvHj0GxBiKRdoT+0XuuHeBfGoKn0S5HTKkZhqiksNPIH1BY6SDw5LOjV44PTHBZTg/tGHHFUCHkAQ=="/>
+        </item>
+    </channel>
+</rss>
