@@ -3,12 +3,12 @@
     <channel>
         <title>OceanTides</title>
         <item>
-            <title>v1.8.1-11-g88092a3-dirty</title>
-            <pubDate>Fri, 05 Jun 2026 17:24:27 -0700</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>v1.8.1-11-g88092a3-dirty</sparkle:shortVersionString>
+            <title>v1.9.0</title>
+            <pubDate>Fri, 05 Jun 2026 17:44:47 -0700</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>v1.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.9.0.zip" length="5062951" type="application/octet-stream" sparkle:edSignature="eXKO0ft12XvHj0GxBiKRdoT+0XuuHeBfGoKn0S5HTKkZhqiksNPIH1BY6SDw5LOjV44PTHBZTg/tGHHFUCHkAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.9.0.zip" length="5062932" type="application/octet-stream" sparkle:edSignature="qqkjwiDL4uRfavdYUzF5lbX7SJ7/j8HNTM5LedG4/noTlOKohnD+f3aTmT2lFIMJPazhjU7UC6CIIdZLTxQPDg=="/>
         </item>
     </channel>
 </rss>
