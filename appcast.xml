@@ -3,6 +3,21 @@
     <channel>
         <title>OceanTides</title>
         <item>
+            <title>1.12.0</title>
+            <pubDate>Mon, 15 Jun 2026 21:56:11 -0700</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.12.0.zip" length="6836431" type="application/octet-stream" sparkle:edSignature="Lep0xvO5lhmGH69s44ehMqa4iBZo8XYXOpPPOdmGOHq5Pit8eBHVc2QWfiMZo43Hs4AIXbHSV+PEUVHhhi2RDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides103-100.delta" sparkle:deltaFrom="100" length="1588750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6yQwqpMgcJrxPEgBL1QW9PlGtd0Fj2jiUvrmF24bypFILT7veOX2F4dlNayC9BztYNTg9spYm+6zc11RLi4nAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides103-98.delta" sparkle:deltaFrom="98" length="1618570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LNfN3BgdBNblgK5LQc6SkeGX1mGKe1RWvBZ0MzvG6s4pIjC+h3CTXMYEx1rakEiBiYuBlulDMzjgiHVeHC1pCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides103-95.delta" sparkle:deltaFrom="95" length="1648566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G8V/ilrwFDU96CO5WSZaLIEWSXQ/0ApXHutKIet2UQM9IVXMQkH5HDHdWbg5MRV+s/CMtHJ5TWHJl1cYrEvGDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides103-75.delta" sparkle:deltaFrom="75" length="1748338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="usOHYfDR/UYKdLJwU4nP4c+iWmZwcSqek9WSSURHMFVvEXNmwH4hwFmLr2feRRgH7C7n6AZq+3K+vhs24A/dAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides103-73.delta" sparkle:deltaFrom="73" length="1753638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6DWCIpGISqTyFOmKIex8UgzTJxvzeSA87C5VLud2wA3fAR5JXOYo38L+TipIuZvwMDhvw5eheaCQa5xzM5LFDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.11.2</title>
             <pubDate>Mon, 15 Jun 2026 12:02:28 -0700</pubDate>
             <sparkle:version>100</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides98-73.delta" sparkle:deltaFrom="73" length="965766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tM9bIV29PrjanL3oezLYAwhGz8m4JxbGf9jXjijOwfo/iXTOUM3/HeYTvS92B6QuhPFxrBMnZv2lkwUpPYYJCA=="/>
                 <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides98-70.delta" sparkle:deltaFrom="70" length="970114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XVwrX6QL7xTUve8ar0zpD342qeRwz8plnO/KsMuJ/QyvHMDAc7Gp6VJ7IOJVQ2uYampY3ys3ttJOpbZVIE+SCw=="/>
                 <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides98-58.delta" sparkle:deltaFrom="58" length="2246962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S5psbBc5wnjGYOrJzH4Qag+Mf7DBhVIzXgCN7yAfKoYSfZJViijmvxTP40mKa9CIr4f9VL9qG5RUoFKv/k92BA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.11.0</title>
-            <pubDate>Mon, 15 Jun 2026 06:09:28 -0700</pubDate>
-            <sparkle:version>95</sparkle:version>
-            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides-v1.11.0.zip" length="5337786" type="application/octet-stream" sparkle:edSignature="sEPO7yNJSY1Z9VbbzYFeFd7m/d5D7QafNCswM67ubcFBxCcR2FuUHRrw+TKtYsz4Qm842gkzvrEnduijMl8QAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides95-75.delta" sparkle:deltaFrom="75" length="936738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B2KfbdmqUo9uLGTsqXEeGqg3InqdjOQOdWQzs1mY//OkGkZg3+ZIXbKnv9SlkDhbJd2On2qoCesyO1QceOnbAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides95-73.delta" sparkle:deltaFrom="73" length="944266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="36L75NCTVDTOCjTQQW6XyuCFzOcJtYAqKbTFGqQe2W+fIKd+2j59NVcrGvIVo04YpegfuOwuqXoqmFfLr0lIDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides95-70.delta" sparkle:deltaFrom="70" length="949122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xRAZ7bCXxn002ha9dXhdbryvuJS8sWO1LA7f1EpFwz011/hGizQQaf8h9Z+EELocIcK0aVVaLAgevUS5+AzeDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides95-58.delta" sparkle:deltaFrom="58" length="2236258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wioYGasciw7cfGhWeH/eFs60mduGplWH3gid8Q0fcx7ZWpONUeo26yJj1NXpvwDLEqZVwS6GX4eDhfQ4NGg1AA=="/>
-                <enclosure url="https://raw.githubusercontent.com/jjnicolas/OceanTides-releases/main/OceanTides95-53.delta" sparkle:deltaFrom="53" length="2278238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fzARLBZl0dRWz69I+c/iOREDWIbjO4PQ1RseZRauN8xrrSxaBxqXHiuSVdq5NosrEzVrRZAoed08BC/uQQlSBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
